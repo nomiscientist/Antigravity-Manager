@@ -31,8 +31,6 @@ src-tauri/gen/
 src-tauri/.env
 
 # Environment
-.env
-.env.*
 environment/
 
 # Python virtual environments and test files
@@ -45,3 +43,4 @@ __pycache__/
 # Reference projects (for development only)
 
 DOCKER_DEPLOYMENT.md
+config.bat
